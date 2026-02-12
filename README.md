@@ -10,7 +10,7 @@ This is a simple and elegant website for *The Quiet Cup Café*, designed to show
 - Interactive contact form with submission alert.
 - Styled with warm colors and cozy fonts.
 
-## Technologies Used
+## Tech stack Used
 - HTML5 for structure.
 - CSS3 for styling.
 - JavaScript for interactive features like navigation smooth scroll and form handling.
